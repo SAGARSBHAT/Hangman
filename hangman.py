@@ -87,9 +87,10 @@ def hangman():
                 print('                  |              ')
                 print('              o---               ')
                 print('             /|\                 ')
-                print('             / \                 ')       
+                print('             / \                 ')  
+                print(word)
                 print("You LOOSE")
-                print('You let a kind man be hanged!!!!')   
+                print('You let a Innocent man be hanged!!!!')   
                 break              
 
 
