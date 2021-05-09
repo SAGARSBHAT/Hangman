@@ -1,7 +1,7 @@
 import random
 
 def hangman():
-    list_of_words=['sagar','sindhu','nirmala','shivaram','ubuntu','cricket','ipl']
+    list_of_words=['capital','india','tennis','prejudice','ubuntu','windows','tensorflow']
     word=random.choice(list_of_words)
     turns=10
     guessmade=""
