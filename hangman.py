@@ -75,13 +75,12 @@ def hangman():
                 print('             /|\                 ')
                 print('             / \                 ')   
             if(turns==1):
-                print('You have {} chances'.format(turns))
+                print('You have {} chance'.format(turns))
                 print('---------------------------------')
                 print('              o---               ')
                 print('             /|\                 ')
                 print('             / \                 ')   
             elif(turns==0):
-                print('You have {} chances'.format(turns))
                 print('---------------------------------')
                 print('                  |              ')
                 print('                  |              ')
